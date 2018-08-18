@@ -2,9 +2,6 @@
 layout: slide
 title: "Population Analysis - Kerala"
 ---
-
-Kerala Population		
-
 | District | Population | Rescued People (districtwise) |
 |--------|--------|--------|
 Malappuram | 4,112,920 | 	
